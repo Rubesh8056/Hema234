@@ -37,7 +37,7 @@ public class HomePageObjects extends BasePage {
 		return womenTag;
 	}
 
-	public WebElement getdressesTag() {
+	public WebElement getdressesTag1() {
 		return dressesTag;
 	}
 	
