@@ -37,7 +37,7 @@ public class HomePageObjects extends BasePage {
 		return womenTag;
 	}
 
-	public WebElement getdressesTag() {
+	public WebElement getdressesTag23() {
 		return dressesTag;
 	}
 	
@@ -70,7 +70,7 @@ public class HomePageObjects extends BasePage {
   public String getWomenTitle() {
 		return womenTag.getText();
   }
-  public String getdreseesTag() {
+  public String getdrese() {
 	  return dressesTag.getText();
   }
   public String getTshirtsTag() {
