@@ -49,7 +49,7 @@ public class HomePageObjects extends BasePage {
 	
 	
 	
-	public void setnletter(String email) {
+	public void setnletter234ss(String email) {
 		setText(nletter, email);
 		nbutton.click();
 	}
