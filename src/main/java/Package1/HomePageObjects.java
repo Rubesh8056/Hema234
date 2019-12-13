@@ -37,7 +37,11 @@ public class HomePageObjects extends BasePage {
 		return womenTag;
 	}
 
+<<<<<<< HEAD
 	public WebElement getdressesTag23() {
+=======
+	public WebElement getdressesTag132() {
+>>>>>>> 0fe2418f580be8400273a290ec57321c68bf003b
 		return dressesTag;
 	}
 	
@@ -49,7 +53,9 @@ public class HomePageObjects extends BasePage {
 	
 	
 	
-	public void setnletter234ss(String email) {
+
+	public void setnletter13(String email) {
+>>>>>>> 0fe2418f580be8400273a290ec57321c68bf003b
 		setText(nletter, email);
 		nbutton.click();
 	}
